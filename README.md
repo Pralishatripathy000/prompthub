@@ -121,26 +121,32 @@ This project is being built to understand:
 - Building production-style services
 
 ---
-
 ## 🗺️ Roadmap
 
+**REST API Foundation**
+Build a clean and scalable CRUD API for creating, retrieving, updating, and deleting prompts.
+
+⬇️
+
 **Prompt Management**
+Organize prompts using categories, tags, search, filtering, and persistent storage.
+
 ⬇️
-**RESTful CRUD API** → Create, retrieve, update, and delete reusable LLM prompts
+
+**LLM Integration**
+Execute and manage prompts across multiple LLM providers, enabling reusable prompt templates and model-specific configurations.
+
 ⬇️
-**Prompt Organization** → Categories, tags, search, and filtering for efficient prompt discovery
+
+**Prompt Intelligence**
+Introduce prompt versioning, execution history, response tracking, and performance analytics to support iterative prompt engineering.
+
 ⬇️
-**Persistent Storage** → Store prompts securely using a database instead of in-memory storage
-⬇️
-**Authentication & Access Control** → User accounts, JWT authentication, and protected endpoints
-⬇️
-**LLM Integration** → Execute saved prompts directly against supported LLM providers and manage model-specific prompt configurations
-⬇️
-**Prompt Versioning & History** → Track prompt revisions, compare changes, and restore previous versions
-⬇️
-**Developer Experience** → API documentation, Postman collection, Docker support, and automated testing
-⬇️
-**Production-Ready Backend** → Logging, configuration management, deployment, monitoring, and scalable architecture
+
+**Production-Ready Backend**
+Strengthen the API with authentication, testing, Docker, documentation, logging, monitoring, and deployment best practices.
+
+
 
 
 ---
