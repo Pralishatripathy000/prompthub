@@ -64,14 +64,21 @@ The project is also a hands-on exploration of backend engineering fundamentals, 
 | DELETE | `/prompts/{id}` | Delete a prompt |
 
 ---
+## 🛠️ Tech Stack
 
-## Tech Stack
-
+### Backend
 - Go
-- Go Standard Library
-- REST
+- Go Standard Library (`net/http`, `encoding/json`, `strconv`, `strings`)
+
+### API
+- REST Architecture
 - JSON
 - HTTP
+
+### Development & Testing
+- Postman
+- Git
+- GitHub Codespaces
 
 ---
 
