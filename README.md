@@ -122,41 +122,7 @@ This project is being built to understand:
 
 ---
 
-## Roadmap
 
-### Version 1
-
-- CRUD API
-- In-memory storage
-- Request validation
-
-### Version 2
-
-- SQLite integration
-- Search
-- Filtering
-- Pagination
-
-### Version 3
-
-- JWT Authentication
-- User accounts
-- Collections
-- Favorites
-
-### Version 4
-
-- Docker
-- Configuration management
-- Logging
-- Rate limiting
-
-### Version 5
-
-- Prompt versioning
-- LLM integration
-- Prompt execution
-- Analytics dashboard
 
 ---
 
