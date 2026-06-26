@@ -122,6 +122,25 @@ This project is being built to understand:
 
 ---
 
+## 🗺️ Roadmap
+
+**Prompt Management**
+⬇️
+**RESTful CRUD API** → Create, retrieve, update, and delete reusable LLM prompts
+⬇️
+**Prompt Organization** → Categories, tags, search, and filtering for efficient prompt discovery
+⬇️
+**Persistent Storage** → Store prompts securely using a database instead of in-memory storage
+⬇️
+**Authentication & Access Control** → User accounts, JWT authentication, and protected endpoints
+⬇️
+**LLM Integration** → Execute saved prompts directly against supported LLM providers and manage model-specific prompt configurations
+⬇️
+**Prompt Versioning & History** → Track prompt revisions, compare changes, and restore previous versions
+⬇️
+**Developer Experience** → API documentation, Postman collection, Docker support, and automated testing
+⬇️
+**Production-Ready Backend** → Logging, configuration management, deployment, monitoring, and scalable architecture
 
 
 ---
