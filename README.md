@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="c8c8b46d-fde8-4cf0-944b-b191deaee0aa" src="https://github.com/user-attachments/assets/ba84affa-61c0-47e8-993f-543c93016706" />
+
+
+
 # 🚀 PromptHub
 
 > A production-ready REST API built in Go for managing, organizing, and versioning LLM prompts.
