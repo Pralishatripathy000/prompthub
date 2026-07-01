@@ -1,0 +1,11 @@
+.env
+.env.local
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+coverage.out
+vendor/
+.DS_Store
